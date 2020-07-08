@@ -1,11 +1,12 @@
 # wiki-API
 
-
 Building my own API with some facts using mongoDB and express.js
 
+To load project:
+1.npm install
+2.npm start
 
 Sample data for the API:
-
 
     {
         "_id": "5f04e465815966acde444648",
